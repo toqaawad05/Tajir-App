@@ -1,55 +1,52 @@
-# Tajir App
+<!-- Main Title -->
+<div style="text-align: center; padding: 20px; background-color: #2d3250; color: white; border-radius: 10px;">
+  <h1 style="margin: 0; font-size: 38px;">Tajir App</h1>
+  <p style="font-size: 18px; color: #f9b17a;">Your trading journey starts here.</p>
+</div>
 
-A new Flutter project.
+<!-- Introduction -->
+<div style="padding: 20px;">
+  <p style="font-size:16px; line-height:1.8;">
+    <strong>Tajir</strong> is a modern Flutter application with 3 essential screens:
+    <em>Sign Up</em>, <em>Login</em>, and <em>Home</em>. Each screen is built to deliver a clean,
+    smooth, and interactive user experience for anyone exploring online trading or e-commerce.
+  </p>
+</div>
 
-## Getting Started
+<!-- Screen Card Template -->
+<div style="padding: 20px; background-color: #f7f7f7; border-radius: 10px; margin-bottom: 30px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+  <h2 style="color:#2d3250;">🔐 Sign Up Screen</h2>
+  <img src="images/photo1.png" alt="Sign Up Screen" width="100%" style="max-width: 500px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <p style="font-size:15px; line-height:1.6; margin-top: 10px;">
+    A user registration form with fields for username, email, and password.
+    The wavy top design and bold button styling make this screen user-friendly and modern.
+  </p>
+</div>
 
-This project is a starting point for a Flutter application.
+<div style="padding: 20px; background-color: #f7f7f7; border-radius: 10px; margin-bottom: 30px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+  <h2 style="color:#2d3250;">🔑 Login Screen</h2>
+  <img src="images/photo2.png" alt="Login Screen" width="100%" style="max-width: 500px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <p style="font-size:15px; line-height:1.6; margin-top: 10px;">
+    A clean login interface with email and password input, remember me checkbox, and forgot password link.
+    Transitions smoothly to the home screen after successful login.
+  </p>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<div style="padding: 20px; background-color: #f7f7f7; border-radius: 10px; margin-bottom: 30px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+  <h2 style="color:#2d3250;">🏠 Home Screen</h2>
+  <img src="images/photo3.png" alt="Home Screen" width="100%" style="max-width: 500px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <p style="font-size:15px; line-height:1.6; margin-top: 10px;">
+    The dashboard displays six grid options like Buying, Selling, Trades, etc., using a beautiful layout.
+    Includes bottom navigation bar with four main actions and well-styled icons.
+  </p>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-<h1>Tajir App</h1>
-
-<p><strong>Tajir</strong> is a modern Flutter app with three main screens: <em>Sign Up</em>, <em>Login</em>, and <em>Home</em>. Each screen offers a clean, intuitive experience designed to help users explore trading options.</p>
-
-<hr>
-
-<h2>🔐 Sign Up Screen</h2>
-<img src="images/photo1.png" alt="Sign Up Screen" width="400"/>
-<p>
-  <strong>Description:</strong> A user registration form with fields for username, email, and password. Features a wavy header, a styled "Sign Up" button, and a link to go back to the login screen.
-</p>
-
-
-<hr>
-
-<h2>🔑 Login Screen</h2>
-<img src="images/photo2.png" alt="Login Screen" width="400"/>
-<p>
-  <strong>Description:</strong> Standard login interface with email and password fields, a "Remember Me" checkbox, "Forgot Password" option, and navigation to Home after successful login. Includes a link to create a new account.
-</p>
-
-
-<hr>
-
-<h2>🏠 Home Screen</h2>
-<img src="images/photo3.png" alt="Home Page" width="400"/>
-<p>
-  <strong>Description:</strong> The main dashboard displaying six feature cards in a grid (Buying, Selling, Trades, Videos, Deals, Case Study). Includes a bottom navigation bar and centered app name.
-</p>
-
-
-<hr>
-
-<h3>📝 Notes</h3>
-<ul>
-  <li>Make sure to upload your images inside the <code>images</code> folder in your GitHub repository.</li>
-  <li>This HTML will only work if the image paths are correct and your repo is public.</li>
-</ul>
+<!-- Notes Section -->
+<div style="padding: 20px;">
+  <h3 style="color:#2d3250;">📝 Notes</h3>
+  <ul style="font-size:15px; line-height: 1.6;">
+    <li>All screenshots should be placed in the <code>images</code> folder inside your repository.</li>
+    <li>Ensure the repo is public or the images won’t display correctly.</li>
+    <li>You can adjust image sizes using <code>width</code> or <code>max-width</code> attributes.</li>
+  </ul>
+</div>
