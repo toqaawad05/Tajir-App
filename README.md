@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 <p>
   <strong>Description:</strong> A user registration form with fields for username, email, and password. Features a wavy header, a styled "Sign Up" button, and a link to go back to the login screen.
 </p>
-<p><strong>Design Rating:</strong> ⭐⭐⭐⭐☆ (4/5)</p>
+
 
 <hr>
 
@@ -35,7 +35,7 @@ samples, guidance on mobile development, and a full API reference.
 <p>
   <strong>Description:</strong> Standard login interface with email and password fields, a "Remember Me" checkbox, "Forgot Password" option, and navigation to Home after successful login. Includes a link to create a new account.
 </p>
-<p><strong>Design Rating:</strong> ⭐⭐⭐⭐☆ (4/5)</p>
+
 
 <hr>
 
@@ -44,7 +44,7 @@ samples, guidance on mobile development, and a full API reference.
 <p>
   <strong>Description:</strong> The main dashboard displaying six feature cards in a grid (Buying, Selling, Trades, Videos, Deals, Case Study). Includes a bottom navigation bar and centered app name.
 </p>
-<p><strong>Design Rating:</strong> ⭐⭐⭐⭐⭐ (5/5)</p>
+
 
 <hr>
 
